@@ -23,7 +23,7 @@ Contact me on Linkedin.
 
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 💼 I’m looking for job oppoturnities as AI Engineer (Internship/Entry level)
-- 🌱 I’m currently learning on Machine learning and Data Engineering
+- 🌱 I’m currently learning on Machine learning.
 - ⚡ **Fun fact:** I hate **The Beatles**
 
 <!-- ### My skills include -->

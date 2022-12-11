@@ -20,8 +20,6 @@ Contact me on Linkedin.
 [![General badge](https://img.shields.io/badge/toanpvm322-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toanpvm322/)
 
 - :bulb: I'm interested in **Doing nothing**
-- 🌱 I’m currently learning on Machine learning.
-
 <!-- ### My skills include -->
 
 <!-- <p align="left"> -->
